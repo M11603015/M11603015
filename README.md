@@ -2,7 +2,7 @@
 - 👀 AR puzzles and games...
 - 🌱 I’m currently learning vuforia
 - 💞️ to collaborate on everything AR
-- 📫 Hbseidel007@aol.com
+- 📫 bseidel007@aol.com
 
 <!---
 M11603015/M11603015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
